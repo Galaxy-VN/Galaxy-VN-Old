@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Galaxy. I'm developer Bukkit plugin (it should as i think)
-Language: Java, Kotlin, C++, Python
+I'm Galaxy. I'm a developer Bukkit plugin
+val lang = listof("Java", "Kotlin", "C++", "Python")
 
 ### Stats
 <div align="center">
