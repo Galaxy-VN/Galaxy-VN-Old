@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Galaxy. I developer Bukkit plugin (it should as i think)
+I'm Galaxy. I'm developer Bukkit plugin (it should as i think)
+Language: Java, Kotlin, C++, Python
 
 ### Stats
 <div align="center">
