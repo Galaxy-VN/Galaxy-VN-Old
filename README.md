@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-I'm Galaxy. I'm a developer Bukkit plugin
 ```
 fun language() = listof("Java", "Kotlin", "C++", "Python")
 ```
