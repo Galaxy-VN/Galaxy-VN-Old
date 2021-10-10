@@ -18,4 +18,4 @@ fun language() = listof("Java", "Kotlin", "C++", "Python")
 ***
 
 ### Open source project
-[![Chemdah](https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-VN&theme=shades-of-purple&repo=Chemdah)](https://github.com/Taboolib/Chemdah)
+[![LuckPermsGui](https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-VN&theme=shades-of-purple&repo=Chemdah)](https://github.com/Galaxy-VN/LuckPermsGUI)
