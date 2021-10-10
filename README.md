@@ -12,10 +12,10 @@ fun language() = listof("Java", "Kotlin", "C++", "Python")
 
 ***
 
-### 这是我的数据
+### My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Galaxy-VN&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ***
 
-### 开源项目
+### Open source project
 [![Chemdah](https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-VN&theme=shades-of-purple&repo=Chemdah)](https://github.com/Taboolib/Chemdah)
