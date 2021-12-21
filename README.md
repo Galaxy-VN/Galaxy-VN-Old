@@ -6,9 +6,9 @@ fun language() = listof("Java", "Kotlin", "C++", "Python")
 📚 This is my website: https://galaxy-vn.github.io/
 
 ### I'm GalaxyVN
-- 💻 I like using Kotlin language because Bkm016 
-- ⚙️ Working on MangoPlex
-- 📖 Learning how to use Java right way?
+- 💻 I like using Kotlin language (maybe) 🤔 
+- ⚙️ Working at MangoStudio
+- 📖 Learning Java
 
 ***
 
