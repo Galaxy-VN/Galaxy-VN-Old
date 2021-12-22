@@ -1,4 +1,4 @@
-###[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237F26BD&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237F26BD&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 ```
 fun language() = listof("Java", "Kotlin", "C++", "Python")
 ```
