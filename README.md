@@ -15,6 +15,10 @@ fun language() = listof("Java", "Kotlin", "C++", "Python")
 ### My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Galaxy-VN&bg_color=30,003697,490085&title_color=fff&text_color=fff)
 
+
+## My Trophies
+![](https://github-profile-trophy.vercel.app/?username=Galaxy-VN&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 ***
 
 ### Open source project
