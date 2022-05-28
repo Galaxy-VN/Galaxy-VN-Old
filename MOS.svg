@@ -1,9 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="150" height="270" class="">
     <foreignObject x="0" y="0" width="100%" height="100%">
-        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="10907dc5-2542-4e5d-bb84-33d247b32a57" data-share-badge-host="https://www.credly.com">
-            Microsoft Word (2016)
-        </div>
-        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
-    </script>
-</foreignObject>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="10907dc5-2542-4e5d-bb84-33d247b32a57" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </foreignObject>
 </svg>
