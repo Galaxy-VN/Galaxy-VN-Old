@@ -20,7 +20,7 @@ fun language() = listof("Java", "Kotlin", "C++", "Python")
 ![](https://github-profile-trophy.vercel.app/?username=Galaxy-VN&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## Badge(s)
-<img src="./badges/microsoft-word-office-2016.png" alt="Image" width="170" height="250"/>
+<img src="./badges/microsoft-word-office-2016.png" alt="Image" width="150" height="150"/>
 
 ***
 
