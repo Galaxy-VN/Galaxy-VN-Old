@@ -20,7 +20,7 @@ fun language() = listof("Java", "Kotlin", "C++", "Python")
 ![](https://github-profile-trophy.vercel.app/?username=Galaxy-VN&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## Other Badge(s)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="10907dc5-2542-4e5d-bb84-33d247b32a57" data-share-badge-host="https://www.credly.com"></div>
+<per><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="10907dc5-2542-4e5d-bb84-33d247b32a57" data-share-badge-host="https://www.credly.com"></div></per>
 
 
 ***
