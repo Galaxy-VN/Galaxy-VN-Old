@@ -21,10 +21,10 @@ fun language() = listof("Java", "Kotlin", "C++", "Python")
 
 ## Other Badge(s)
 ```HTML
-<pre>
+<body>
     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="10907dc5-2542-4e5d-bb84-33d247b32a57" data-share-badge-host="https://www.credly.com"></div>
     <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</pre>   
+</body>  
 ```
 
 ***
